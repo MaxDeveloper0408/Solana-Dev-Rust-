@@ -1,0 +1,18 @@
+/mnt/d/dev/blockchain/wormhole/solana/bridge/program/target/rls/debug/deps/typenum-8fa0e6bbb9428c5d.rmeta: /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs /mnt/d/dev/blockchain/wormhole/solana/bridge/program/target/rls/debug/build/typenum-a845ac8e04079320/out/op.rs /mnt/d/dev/blockchain/wormhole/solana/bridge/program/target/rls/debug/build/typenum-a845ac8e04079320/out/consts.rs
+
+/mnt/d/dev/blockchain/wormhole/solana/bridge/program/target/rls/debug/deps/typenum-8fa0e6bbb9428c5d.d: /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs /home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs /mnt/d/dev/blockchain/wormhole/solana/bridge/program/target/rls/debug/build/typenum-a845ac8e04079320/out/op.rs /mnt/d/dev/blockchain/wormhole/solana/bridge/program/target/rls/debug/build/typenum-a845ac8e04079320/out/consts.rs
+
+/home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs:
+/home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs:
+/home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs:
+/home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs:
+/home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs:
+/home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs:
+/home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs:
+/home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs:
+/home/franglin/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs:
+/mnt/d/dev/blockchain/wormhole/solana/bridge/program/target/rls/debug/build/typenum-a845ac8e04079320/out/op.rs:
+/mnt/d/dev/blockchain/wormhole/solana/bridge/program/target/rls/debug/build/typenum-a845ac8e04079320/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/mnt/d/dev/blockchain/wormhole/solana/bridge/program/target/rls/debug/build/typenum-a845ac8e04079320/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/mnt/d/dev/blockchain/wormhole/solana/bridge/program/target/rls/debug/build/typenum-a845ac8e04079320/out/op.rs
